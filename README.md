@@ -17,7 +17,7 @@
 ---
 
 ### 🧠 Currently Learning
-`[React Native]`
+`Ruby on Rails, Next.js`
 
 ---
 
@@ -60,9 +60,11 @@
 ---
 
 ### 🥅 2025 Goals
-- ✅ [Your Goal 1]
-- 🚀 [Your Goal 2]
-- 💡 [Your Goal 3]
+- ✅ Build a REST API with Spring Boot
+- 🚀 Integrate Firebase Auth with React
+- 💡 Connect WhatsApp Chatbot API
+- ⏳ Write unit tests with Jest
+  ⏳ Learn about CI/CD pipelines
 
 ---
 
